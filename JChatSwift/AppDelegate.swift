@@ -8,7 +8,7 @@
 
 import UIKit
 
-let JMSSAGE_APPKEY = "4f7aef34fb361292c566a1cd"
+let JMSSAGE_APPKEY = "5621126402f950b3892e06ed"
 let CHANNEL = ""
 
 @UIApplicationMain
